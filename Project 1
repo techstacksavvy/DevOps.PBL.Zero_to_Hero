@@ -1,1 +1,7 @@
+LAMP (Linux, Apache, MySQL, PHP or Python, or Perl)
+
+Step 0 
+Provision an Ubuntu server in AWS 
+Spin up an EC2 instance
+Connect to EC2 via MAC Terminal
 
